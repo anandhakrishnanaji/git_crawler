@@ -6,3 +6,7 @@ Run using
 ``python3 gitcrawler.py <username> <[OPTIONAL]recursionlimit>``
 
 Recursion limit decides the depth of the tree. Try to set recursion limit less while running as the program is not efficient now and is running in single thread. Multi threading will be soon added.
+
+Execute setup.sh to install the additional python modu;es for the project
+
+``./start.sh``
