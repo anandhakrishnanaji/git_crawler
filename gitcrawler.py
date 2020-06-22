@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from essentials import *
 import re
 import requests
@@ -5,6 +7,9 @@ from bs4 import BeautifulSoup
 #from automate import *
 import sys
 #from urllib.request import urlopen
+
+#AUTHOR anandhakris
+
 
 recursivelim=5
 if len(sys.argv)>2:
